@@ -1,10 +1,11 @@
 # Trabalho Aprendizado não Supervisionado
 
-Link do repositório
+
+Nome dos integrantes: Lucas Nathan de Oliveira e Mateus dos anjos 
 
 Turma (BSI - Quarta)
 
-Nome dos integrantes: Lucas Nathan de Oliveira e Mateus dos anjos 
+Link do repositório: https://github.com/lucaasnathan/TrabalhoAprendizadoNSupervisionado.git
 
 Link para o dataset: https://mid.curitiba.pr.gov.br/dadosabertos/CasosCovid19/2022-11-09_Casos_Covid_19_-_Base_de_Dados.csv
 
